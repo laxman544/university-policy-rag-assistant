@@ -1,2 +1,3 @@
-# university-policy-rag-assistant
-AI-powered RAG assistant using FAISS + LLM
+# Agentic AI RAG Assistant
+
+AI-powered Retrieval-Augmented Generation (RAG) assistant using FAISS, embeddings, and LLMs.
