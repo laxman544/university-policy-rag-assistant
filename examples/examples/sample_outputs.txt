@@ -1,0 +1,9 @@
+Question:
+What is the attendance policy?
+
+Retrieved Chunks:
+- Chunk 12: Students are expected to attend all scheduled classes...
+- Chunk 13: Absences may affect grades depending on instructor policy...
+
+Generated Answer:
+The handbook states that students are expected to attend all scheduled classes. Excessive absences may negatively affect academic performance and final grades.
